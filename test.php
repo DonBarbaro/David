@@ -1,4 +1,5 @@
 <?php
 echo 'Nazdar';
-echo 'David'
+echo 'David';
+echo 'Ako';
 ?>
